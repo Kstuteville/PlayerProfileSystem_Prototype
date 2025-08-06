@@ -20,3 +20,13 @@ NPC/Enemy Reaction (Basic):
 Debug UI (Optional but recommended):
 - Display real-time profile values (morality, combat style, skill tier) for testing and observation.
 
+
+What this leads to
+- Build scalable data structure for future AI systems (companions, aura, reputation).
+- Test real-time updates and querying of player stats.
+- Lay groundwork for adaptive dialogue trees or enemy strategies.
+
+What This can turn into 
+- Real NPC memory, gossip, and town reputation systems.
+- Adaptive enemy difficulty based on skill level and patterns.
+- Complex moral consequences that evolve based on player’s long-term behavior.
